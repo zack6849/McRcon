@@ -1,0 +1,13 @@
+name: RCON
+main: com.zack6849.mcrcon.BukkitWrapper
+version: 1.0
+commands:
+    adduser:
+        description: reloads superlogger 
+        usage: /adduser username password
+    deluser:
+        description: reloads superlogger 
+        usage: /deluser username
+    listusers:
+        description: reloads superlogger 
+        usage: /listusers
